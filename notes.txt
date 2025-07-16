@@ -1,0 +1,11 @@
+Ideia_1: Fazer transfer learning de um Yolo para resolver o onde está o Wally
+
+https://universe.roboflow.com/wheres-wally/wally-finder
+https://github.com/tadejmagajna/HereIsWally/tree/master
+https://blogs.nottingham.ac.uk/digitalresearch/2020/06/15/trouble-finding-wally-train-a-custom-object-detection-framework-to-find-him-for-you/
+https://www.nbi.dk/~petersen/Teaching/ML2019/Projects/Project5_FindingWallyIn2DImages.pdf
+
+Ideia_2: Usar alguma rede neural usada para jogar xadrez ou algum outro jogo e treinar para jogar 
+https://github.com/dkruyt/TicTacToe-NeuralNetwork
+https://huggingface.co/blog/nroggendorff/ttt-ai
+https://github.com/marcpaulo15/super-tic-tac-toe
