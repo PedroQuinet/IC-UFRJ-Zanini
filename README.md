@@ -1,5 +1,6 @@
-# IC-UFRJ-Zanini
-Repositório para IC com o professor Carlos Zanini
+<title>IC-UFRJ-Zanini</title>
+
+Este é somente um repositório para IC com o professor Carlos T. P. Zanini 
 
 Uma das referencias é: https://keras.io/guides/transfer_learning/, também estamos usando um antigo projeto de IC do professor (botei as pastas com as fotos no .gitignore pra não pesar na hora de mandar pro github)
 
