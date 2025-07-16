@@ -1,4 +1,4 @@
-<title>IC-UFRJ-Zanini</title>
+#IC-UFRJ-Zanini
 
 Este é somente um repositório para IC com o professor Carlos T. P. Zanini 
 
