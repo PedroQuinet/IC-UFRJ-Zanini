@@ -6,3 +6,11 @@ capivara/
 capivara_augmented/
 capivara_test/
 capivara_train/
+transfer_learning_reference_2/test/
+transfer_learning_reference_2/train/
+transfer_learning_reference_2/treino/
+*.csv
+*.keras
+*.jpg
+*.png
+*.jpeg
