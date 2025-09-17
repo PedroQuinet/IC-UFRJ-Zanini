@@ -1,0 +1,1 @@
+ O imaginet 1000 utilizado no pré treino contém 5 espécies de borboletas (ringlet, monarch, cabbage, sulphur, lycaenid) e dessas 5, a monarch e cabbage aparecem repetidas no nosso dataset.
